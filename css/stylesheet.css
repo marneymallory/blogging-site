@@ -1,0 +1,14 @@
+.important {
+  color: red;
+}
+.unimportant {
+  color: blue;
+}
+body {
+  background-color: aqua;
+  text-align: center;
+}
+.highlight {
+  background-color: rgb(223, 241, 54);
+  font-style: italic;
+}
